@@ -1,3 +1,71 @@
 body {
+		background-image: url("../images/tychonia.png");
 		background-color: rgb(255,215,0);
+		background-repeat: no-repeat;
+		background-size: 100%
+}
+
+ol {
+		color: rgb(255,215,0);
+}
+
+h1 {
+		color: rgb(255,215,0);
+		text-shadow: 2px 2px 5px white;
+		text-align: center;
+}
+
+.heading {
+	color: rgb(255,215,0);
+	text-align: center;
+}
+
+p {
+		color: rgb(255,215,0);
+		text-align: center;
+}
+
+.normal_div {
+	transition-duration: 0.2s;
+		border-radius: 10px;
+		border: 2px solid rgb(165,42,42);
+		background: linear-gradient(rgb(0,0,255),rgb(255,0,0));
+		padding: 5%;
+		width: 75%;
+		margin: auto;
+}
+
+.normal_div:hover {
+		opacity: 0.8;
+}
+
+.grid-container {
+		margin: auto;
+		grid-template-columns: auto auto auto;
+		display:grid;
+		grid-column-gap: 10px;
+}
+
+.grid-element {
+		display:inline-grid;
+}
+
+.button {
+	transition-duration: 0.2s;
+	background-color: rgb(255,215,0);
+	border: 1px solid black;
+	color: rgb(165,42,42);
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	width: 100%
+}
+
+.button:hover {
+  background-color: rgb(165,42,42);
+  color: white;
 }
