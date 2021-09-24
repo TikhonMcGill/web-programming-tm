@@ -15,3 +15,6 @@ This page describes who Tikhon the Great is, in totally-accurate and completely 
 ## Tychonia
 
 This page shows a totally-accurate photograph of the city of Tychonia, plus some facts about it.  The user may return to Index via a button.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
