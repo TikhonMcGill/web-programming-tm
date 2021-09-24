@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the necessary files to build a GitHub Pages website detailing Tikhon the Great and his empire's capital city of Tychonia.
+This repository contains the files for a website detailing Tikhon the Great and his empire's capital city of Tychonia.
 
 ## Index
 
@@ -14,7 +14,7 @@ This page describes who Tikhon the Great is, in totally-accurate and completely 
 
 ## Tychonia
 
-This page shows a totally-accurate photograph of the city of Tychonia, plus some facts about it.  The user may return to Index via a button.
+This page shows some facts about Tychonia, the Capital of Tikhon the Great's Empire.  The user may return to Index via a button.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
